@@ -1,0 +1,41 @@
+commit de58b5b23177bdcb6474366f991b5a23a8e5e6f9 (HEAD -> master)
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 20:15:24 2018 -0400
+
+    Agregamos contenido al index.html
+
+commit bef09952b5581fe0c1eb92e308c853327d683062
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 20:13:47 2018 -0400
+
+    creamos el index.html
+
+commit 587a82f81079492fe62aca86b288f0682b85d84e
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 20:12:47 2018 -0400
+
+    ordenamos los archivos y carpetas
+
+commit 5dc63879f234a17d2770f8f209274198e713b065
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 20:05:07 2018 -0400
+
+    Agregamos dos imagenes
+
+commit e02b79fbd9252d1967409ae60934be2c8fccc9c0
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 20:00:04 2018 -0400
+
+    Creamos directorios y dos archivos vacios
+
+commit 71201d84cc5a509314ac0213f0205ed260695d5e
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 19:57:12 2018 -0400
+
+    Cambiamos el nombre del archivo readme
+
+commit 1dd9b359420239444a26135763b43ae232c72326
+Author: Mihael Cruz <mihael.cruz@gmail.com>
+Date:   Tue Aug 14 19:55:54 2018 -0400
+
+    Commit Inicial

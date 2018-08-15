@@ -1,0 +1,27 @@
+diff --git a/assets/css/styles.css b/assets/css/styles.css
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/assets/img/img1.jpg b/assets/img/img1.jpg
+deleted file mode 100644
+index 481d7c7..0000000
+Binary files a/assets/img/img1.jpg and /dev/null differ
+diff --git a/assets/img/img2.jpg b/assets/img/img2.jpg
+deleted file mode 100644
+index 467ab8c..0000000
+Binary files a/assets/img/img2.jpg and /dev/null differ
+diff --git a/assets/js/main.js b/assets/js/main.js
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/index.html b/index.html
+deleted file mode 100644
+index 83b676d..0000000
+--- a/index.html
++++ /dev/null
+@@ -1,2 +0,0 @@
+-Lo que mas me gusta es la simplicidad y la gran funcionalidad que 
+tiene.
+-
+diff --git a/README.md b/readme
+similarity index 100%
+rename from README.md
+rename to readme
